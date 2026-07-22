@@ -1,0 +1,15 @@
+{
+  "available_states": ["Lagos", "Kano", "Rivers", "Enugu", "Sokoto", "Plateau", "Cross River", "Bauchi"],
+  "slots_per_state": {
+    "Lagos": 2,
+    "Kano": 3,
+    "Rivers": 2,
+    "Enugu": 2,
+    "Sokoto": 3,
+    "Plateau": 2,
+    "Cross River": 2,
+    "Bauchi": 3
+  },
+  "priority_disciplines": ["Medicine", "Education", "Agriculture"],
+  "min_capacity_warning": 1
+}
