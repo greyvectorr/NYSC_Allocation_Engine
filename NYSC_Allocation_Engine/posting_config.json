@@ -1,0 +1,25 @@
+{
+  "states_of_Nigeria": [
+    "Abia", "Adamawa", "Akwa Ibom", "Anambra", "Bauchi", "Bayelsa", "Benue",
+    "Borno", "Cross River", "Delta", "Ebonyi", "Edo", "Ekiti", "Enugu", "FCT",
+    "Gombe", "Imo", "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Kogi",
+    "Kwara", "Lagos", "Nasarawa", "Niger", "Ogun", "Ondo", "Osun", "Oyo",
+    "Plateau", "Rivers", "Sokoto", "Taraba", "Yobe", "Zamfara"
+  ],
+  "slots_per_state": {
+    "Abia": 2, "Adamawa": 3, "Akwa Ibom": 4, "Anambra": 3, "Bauchi": 3,
+    "Bayelsa": 2, "Benue": 4, "Borno": 3, "Cross River": 3, "Delta": 4,
+    "Ebonyi": 2, "Edo": 3, "Ekiti": 2, "Enugu": 4, "Gombe": 2, "Imo": 3,
+    "Jigawa": 2, "Kaduna": 5, "Kano": 5, "Katsina": 3, "Kebbi": 2, "Kogi": 3,
+    "Kwara": 3, "Lagos": 6, "Nasarawa": 2, "Niger": 3, "Ogun": 4, "Ondo": 3,
+    "Osun": 3, "Oyo": 4, "Plateau": 3, "Rivers": 5, "Sokoto": 2, "Taraba": 2,
+    "Yobe": 2, "Zamfara": 2
+  },
+  "course_of_study": [
+    "Medicine", "Nursing", "Pharmacy", "Medical Laboratory Science",
+    "Education", "Agriculture", "Engineering", "Computer Science"
+  ],
+  "min_capacity_warning": 10,
+  "regular_strategy": "balanced",
+  "generate_call_up_letters": true
+}
